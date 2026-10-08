@@ -1,0 +1,8 @@
+Audio del juego
+
+meow.ogg     "Meow" por IgnasD - CC0 (dominio publico)
+             https://opengameart.org/content/meow
+lofi_loop.wav        Musica lofi generada con codigo para este proyecto
+game_over.wav        Sonido de choque (campanitas suaves), generado con codigo
+game_over_final.wav  Sonido del game over final (nana), generado con codigo
+(los tres ultimos: sintesis propia, sin muestras de terceros)
